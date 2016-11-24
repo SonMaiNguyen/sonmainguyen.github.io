@@ -1670,9 +1670,13 @@
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table {
+	ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
+	p{
+		margin-bottom: 10px;
+	}
+	
 
 	br.clear {
 		clear: both;
