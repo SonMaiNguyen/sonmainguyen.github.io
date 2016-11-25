@@ -2112,7 +2112,7 @@
 /* Two */
 
 	#two {
-		background: url("overlay.png"), url("two.jpg");
+		background: url("overlay.png"), url("tow.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
